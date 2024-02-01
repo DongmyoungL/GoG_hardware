@@ -1,0 +1,1 @@
+# GoG_hardware
