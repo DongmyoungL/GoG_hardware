@@ -9,4 +9,4 @@
 
 **For more in-depth information, please refer to our paper [[1]](https://ieeexplore.ieee.org/abstract/document/10410659) or [our webpage](https://sites.google.com/view/gripperongripper).**
 
-[1] Dongmyoung Lee*, Wei Chen*, Xiaoshuai Chen, and Nicolas Rojas. "GOG: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm." IEEE Robotics and Automation Letters (2024).
+** [1] Dongmyoung Lee*, Wei Chen*, Xiaoshuai Chen, and Nicolas Rojas. "GOG: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm." IEEE Robotics and Automation Letters (2024).**
