@@ -6,6 +6,7 @@
 **CAD files for Gripper-on-Gripper (GoG) design.** This gripper is specifically designed to facilitate bimanual cloth manipulation, including actions like folding and flattening, using a only a single robot arm. The gripper configuration comprises two distinct features: a Width Control Gripper (WCG) and two Variable Friction Gripper (VFG). 
 - WCG functions as a large-scale gripper mechanism responsible for regulating the width of the two VFGS, with a range of up to 500mm. 
 - Two VFGs consists of a variable friction module that enables to actuate two grasping modes passively (Firm and sliding grasps).
+More details of the CAD files are included in [here](https://github.com/DongmyoungL/GoG_hardware/blob/main/details/GOG_part_file_list.pdf).
 
 **For more in-depth information, please refer to our paper [[1]](https://ieeexplore.ieee.org/abstract/document/10410659) or [our webpage](https://sites.google.com/view/gripperongripper).**
 
